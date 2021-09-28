@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/todo-react-app-v3/static/css/main.90098c93.chunk.css",
-    "main.js": "/todo-react-app-v3/static/js/main.d99b7641.chunk.js",
-    "main.js.map": "/todo-react-app-v3/static/js/main.d99b7641.chunk.js.map",
-    "runtime-main.js": "/todo-react-app-v3/static/js/runtime-main.6b612eeb.js",
-    "runtime-main.js.map": "/todo-react-app-v3/static/js/runtime-main.6b612eeb.js.map",
-    "static/js/2.198e07c7.chunk.js": "/todo-react-app-v3/static/js/2.198e07c7.chunk.js",
-    "static/js/2.198e07c7.chunk.js.map": "/todo-react-app-v3/static/js/2.198e07c7.chunk.js.map",
-    "static/js/3.3b93c175.chunk.js": "/todo-react-app-v3/static/js/3.3b93c175.chunk.js",
-    "static/js/3.3b93c175.chunk.js.map": "/todo-react-app-v3/static/js/3.3b93c175.chunk.js.map",
-    "index.html": "/todo-react-app-v3/index.html",
-    "static/css/main.90098c93.chunk.css.map": "/todo-react-app-v3/static/css/main.90098c93.chunk.css.map",
-    "static/js/2.198e07c7.chunk.js.LICENSE.txt": "/todo-react-app-v3/static/js/2.198e07c7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/todo-react-app-v3/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-todo-app-v3/static/css/main.90098c93.chunk.css",
+    "main.js": "/react-todo-app-v3/static/js/main.d99b7641.chunk.js",
+    "main.js.map": "/react-todo-app-v3/static/js/main.d99b7641.chunk.js.map",
+    "runtime-main.js": "/react-todo-app-v3/static/js/runtime-main.662bed54.js",
+    "runtime-main.js.map": "/react-todo-app-v3/static/js/runtime-main.662bed54.js.map",
+    "static/js/2.198e07c7.chunk.js": "/react-todo-app-v3/static/js/2.198e07c7.chunk.js",
+    "static/js/2.198e07c7.chunk.js.map": "/react-todo-app-v3/static/js/2.198e07c7.chunk.js.map",
+    "static/js/3.3b93c175.chunk.js": "/react-todo-app-v3/static/js/3.3b93c175.chunk.js",
+    "static/js/3.3b93c175.chunk.js.map": "/react-todo-app-v3/static/js/3.3b93c175.chunk.js.map",
+    "index.html": "/react-todo-app-v3/index.html",
+    "static/css/main.90098c93.chunk.css.map": "/react-todo-app-v3/static/css/main.90098c93.chunk.css.map",
+    "static/js/2.198e07c7.chunk.js.LICENSE.txt": "/react-todo-app-v3/static/js/2.198e07c7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-todo-app-v3/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b612eeb.js",
+    "static/js/runtime-main.662bed54.js",
     "static/js/2.198e07c7.chunk.js",
     "static/css/main.90098c93.chunk.css",
     "static/js/main.d99b7641.chunk.js"
