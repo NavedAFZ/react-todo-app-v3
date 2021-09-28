@@ -1,0 +1,74 @@
+.myList{
+    width:80% ;
+
+    margin:30px;
+    margin-top: 30px;;
+    background-color: white;
+    font-size: larger;
+    
+}
+.ui.button.viewList{
+    
+    margin-left:25%;
+}
+
+.List{
+    color:red;
+    width: 400px;
+    margin: 20px auto;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    text-align: center;
+}
+.List p{
+    padding: 10px;
+    position: relative;
+    transition: ease-in-out;
+}
+.List p input{
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+    width: 80%;
+}
+
+
+.ui.grid{
+    margin: auto;
+}
+.List p input:focus{
+    outline: none;
+}
+.List p span{
+    position: absolute;
+    right: 10px;
+}
+.List p span.chk{
+    position: absolute;
+    left: 10px;
+    width: 30px;
+}
+.List p input.strike {
+    text-decoration: line-through 3px red;
+ }
+.faicons{
+    margin: 0 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.itemsAnim-enter{
+    opacity: 0.01;
+}
+.itemsAnim-enter .itemsAnim-enter-active{
+    opacity: 1;
+    transition: opacity 300ms ease-in
+}
+.itemsAnim-leave{
+    opacity: 1;
+}
+.itemsAnim-leave .itemsAnim-leave-active{
+    opacity: 0.01;
+    transition: opacity 300ms ease-in
+}
